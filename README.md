@@ -34,6 +34,10 @@ Here are some of my projects:
   - Analyzed sales, profit, and customers per month.  
   - Added slicers by **quarter, country, and month**.  
 
+- [📊 Excel Dashboard (Power BI & Excel)](https://www.linkedin.com/posts/saraalaa777_dataanalysis-excel-dashboard-activity-7363978776432537601-CcsS)  
+  - Built an interactive Excel dashboard to track key metrics.  
+  - Enhanced visualization with charts and conditional formatting.
+
 *(Add links to your GitHub repos or screenshots if available)*  
 
 ---
