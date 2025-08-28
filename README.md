@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hi there 👋, I'm Sara Alaa  
 
-<!--
-**saraalaa77/saraalaa77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Data Analyst | Power BI Specialist | Business Information Systems Student**  
 
-Here are some ideas to get you started:
+I'm passionate about turning raw data into actionable insights and building interactive dashboards that help businesses make data-driven decisions.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔹 About Me
+- 🎓 Studying **Business Information Systems** at Helwan University (Level 3).  
+- 💻 Skilled in **Power BI, Excel, Python, and SQL**.  
+- 📊 Experienced in **data cleaning, visualization, and dashboard creation**.  
+- 🏆 Achievements:  
+  - 1st place in an **event organization competition** as a team leader.  
+  - Organized the **Alabakera Program** for testing university students.  
+  - Trainings at **Banque Misr** and **CIB**.  
+
+---
+
+## 🔹 Skills
+- **Data Visualization:** Power BI, Excel  
+- **Programming:** Python (Pandas, Matplotlib)  
+- **Database:** SQL  
+- **Other Tools:** Microsoft Office, Canva  
+
+---
+
+## 🔹 Projects
+Here are some of my projects:  
+
+- 📊 **Sales Dashboard (Power BI)**  
+  - Analyzed sales, profit, and customers per month.  
+  - Added slicers by **quarter, country, and month**.  
+  - [🔗 View Project](#)  
+
+- 📈 **HR Data Analysis**  
+  - Cleaned HR dataset and built KPIs dashboard in Power BI.  
+  - [🔗 View Project](#)  
+
+*(Add links to your GitHub repos or screenshots if available)*  
+
+---
+
+## 🔹 Connect With Me
+- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/saraalaa777/)
+- 📧 Email: saraalaaabdalnabi2005@gmail.com
+---
+
+✨ *“Turning data into insights, and insights into action.”*
