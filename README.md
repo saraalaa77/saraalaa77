@@ -34,7 +34,7 @@ Here are some of my projects:
  ✅ Analyze ticket channels (Email vs Portal)
  ✅ Measure average closure rate (AV Rate) & First Contact Resolution (FCR)
  ✅ Identify top issues and categories impacting performance
-  - 
+  
 - [📊 Sales Dashboard (Power BI)](https://www.linkedin.com/posts/saraalaa777_powerbi-dataanalysis-digitalegyptpioneers-activity-7361145563678937089-5RoC)  
   - Analyzed sales, profit, and customers per month.  
   - Added slicers by **quarter, country, and month**.  
@@ -43,9 +43,7 @@ Here are some of my projects:
   - Built an interactive Excel dashboard to track key metrics.  
   - Enhanced visualization with charts and conditional formatting.
 
-*(Add links to your GitHub repos or screenshots if available)*  
 
----
 
 ## 🔹 Connect With Me
 - 💼 [LinkedIn][(https://www.linkedin.com/in/saraalaa777/)]
