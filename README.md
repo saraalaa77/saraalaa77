@@ -29,7 +29,12 @@ I'm passionate about turning raw data into actionable insights and building inte
 Here are some of my projects:  
 
 ## 🔹 Projects
-
+- [📊IT Tickets Dashboard – Performance Overview (Power BI)](https://www.linkedin.com/posts/saraalaa777_powerbi-dataanalysis-businessintelligence-activity-7375558039778705408-4oCc?utm_source=share&utm_medium=member_desktop&rcm=ACoAAElrk9wBy3OD3zcQ2UEB54-6MSpstxci4E8)  
+  - ✅ Track monthly & quarterly ticket volume
+ ✅ Analyze ticket channels (Email vs Portal)
+ ✅ Measure average closure rate (AV Rate) & First Contact Resolution (FCR)
+ ✅ Identify top issues and categories impacting performance
+  - 
 - [📊 Sales Dashboard (Power BI)](https://www.linkedin.com/posts/saraalaa777_powerbi-dataanalysis-digitalegyptpioneers-activity-7361145563678937089-5RoC)  
   - Analyzed sales, profit, and customers per month.  
   - Added slicers by **quarter, country, and month**.  
