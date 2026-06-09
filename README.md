@@ -7,7 +7,7 @@ I'm passionate about turning raw data into actionable insights and building inte
 ---
 
 ## 🔹 About Me
-- 🎓 Studying **Business Information Systems** at Helwan University (Level 3).  
+- 🎓 Studying **Business Information Systems** at Helwan University (Level 4).  
 - 💻 Skilled in **Power BI, Excel, Python, and SQL**.  
 - 📊 Experienced in **data cleaning, visualization, and dashboard creation**.  
 - 🏆 Achievements:  
@@ -43,7 +43,7 @@ Here are some of my projects:
 ---
 
 ## 🔹 Connect With Me
-- 💼 [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/saraalaa777/)
+- 💼 [LinkedIn][(https://www.linkedin.com/in/saraalaa777/)]
 - 📧 Email: saraalaaabdalnabi2005@gmail.com
 ---
 
